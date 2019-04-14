@@ -2,7 +2,7 @@ package sessions
 
 import (
 	//"petram/config"
-	"sampleapp/crypto"
+	"../crypto"
 	//consts "petram/constants"
 	//env "petram/environment"
 

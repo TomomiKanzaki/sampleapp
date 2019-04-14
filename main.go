@@ -2,8 +2,8 @@ package main
 
 import (
 	//"sampleapp/config"
-	"sampleapp/routes"
-	"sampleapp/sessions"
+	"./routes"
+	"./sessions"
 
 	"github.com/gin-gonic/gin"
 )

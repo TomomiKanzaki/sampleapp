@@ -1,8 +1,7 @@
 package config
 
 import (
-	"sampleapp/crypto"
-
+	"../crypto"
 	"errors"
 )
 
